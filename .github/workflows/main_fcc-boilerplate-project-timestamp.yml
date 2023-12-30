@@ -59,4 +59,4 @@ jobs:
           app-name: 'fcc-boilerplate-project-timestamp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DCB299D3A13D4D468354D5BB87563C83 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_37464F7B29C043AD895A5F7656CB129C }}
